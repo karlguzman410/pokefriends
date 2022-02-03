@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokefriends/static/css/main.11cf13a5.css",
+    "main.js": "/pokefriends/static/js/main.40839b4c.js",
+    "index.html": "/pokefriends/index.html",
+    "main.11cf13a5.css.map": "/pokefriends/static/css/main.11cf13a5.css.map",
+    "main.40839b4c.js.map": "/pokefriends/static/js/main.40839b4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11cf13a5.css",
+    "static/js/main.40839b4c.js"
+  ]
+}
